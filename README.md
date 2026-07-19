@@ -1,136 +1,136 @@
-\# SaaS Revenue Leak \& Customer Churn Command Center
+# SaaS Revenue Leak & Customer Retention Dashboard
+
+A portfolio data analytics project that analyzes synthetic B2B SaaS customer, subscription, usage, and invoice data to identify revenue leakage, payment risk, and retention issues through a Power BI dashboard.
 
+## Overview
 
+This project simulates a fictional SaaS business and answers a simple executive question:
 
-\## Goal
+**Where is recurring revenue being lost, which customer segments are most at risk, and what should the business act on first?**
 
-Analyze why customers churn and where recurring revenue is being lost in a fictional B2B SaaS company.
+The project combines synthetic data generation in Python with a Power BI dashboard designed for business stakeholders such as revenue operations, customer success, and leadership teams.
 
+## Business Problem
 
+SaaS businesses often track growth but miss the operational signals behind revenue loss, such as failed payments, weak product engagement, and segment-level leakage.
 
-\## Audience
+This dashboard is built to help answer:
+- How much billed revenue is actually being collected?
+- Which industries, plans, or customer groups contribute the most revenue leakage?
+- Which accounts appear high-risk from a payment and engagement perspective?
+- How is revenue trending over time?
 
-CEO, Revenue Ops, Customer Success Manager
+## Dashboard Summary
 
+The Power BI dashboard provides an executive view of:
+- Total billed revenue
+- Total paid revenue
+- Revenue leakage
+- Failed invoices
+- Average paid per customer
+- Revenue trend over time
+- Revenue leakage by industry
+- High-risk customer accounts
 
+This layout follows a one-page executive dashboard style with top-level KPIs, supporting trend visuals, and an action-oriented risk table.
 
-\## Main KPIs
+## Dataset
 
-\- MRR
+The dataset is fully synthetic and generated in Python.
 
-\- Churn Rate
+### Core tables
+- `customers.csv` – customer profile data such as industry, region, company size, and acquisition channel
+- `subscriptions.csv` – plan, billing cycle, pricing, seats, and contract dates
+- `usage_monthly.csv` – monthly activity, sessions, API usage, and feature adoption signals
+- `invoices.csv` – billed amount, paid amount, discounts, and payment status
 
-\- Net Revenue Retention
+The synthetic dataset is designed to resemble a B2B SaaS operating environment while remaining fully reproducible for portfolio use.
 
-\- Expansion Revenue
+## Tools & Technologies
 
-\- At-Risk ARR
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Faker
+- Power BI
+- DAX
+- Git / GitHub
 
+## Key KPIs
 
+The dashboard focuses on the following metrics:
+- Total Billed
+- Total Paid
+- Revenue Leakage
+- Failed Invoices
+- Active Customers
+- Average Paid per Customer
 
-\## Dataset Tables
+## Key Insights
 
+Example insights surfaced by the dashboard include:
+- Total paid revenue trails billed revenue, indicating measurable leakage in collections.
+- Certain industries contribute disproportionately to revenue leakage.
+- Failed invoices and lower customer engagement signals can help identify higher-risk accounts for follow-up.
+- Revenue trends over time provide context for operational and customer health performance.
 
+## Repository Structure
 
-\### 1) customers
+```text
+saas-revenue-leak-retention-dashboard/
+├── data/
+│   ├── customers.csv
+│   ├── subscriptions.csv
+│   ├── usage_monthly.csv
+│   └── invoices.csv
+├── images/
+│   └── dashboard screenshot(s)
+├── notebooks/
+│   └── 01_generate_synthetic_data.ipynb
+├── powerbi/
+│   └── SaaS Revenue Leak Dashboard.pbix
+├── README.md
+└── requirements.txt
+```
 
-\- customer\_id
+## How to Use
 
-\- company\_name
+1. Open the Jupyter notebook in the `notebooks/` folder to review or regenerate the synthetic data.
+2. Use the CSV files in the `data/` folder as the Power BI data source.
+3. Open the Power BI report in the `powerbi/` folder.
+4. Explore the dashboard using slicers such as region, industry, company size, plan, and invoice month.
 
-\- industry
+## Dashboard Preview
 
-\- company\_size
+Add one or two screenshots of the final Power BI dashboard in the `images/` folder, then embed them here.
 
-\- region
+Example:
 
-\- acquisition\_channel
+```md
 
-\- signup\_date
+```
 
+## Why This Project Matters
 
+This project demonstrates practical analytics skills across:
+- Synthetic data generation
+- Data modeling
+- KPI design
+- Business-focused dashboarding
+- Power BI reporting
+- Analytical storytelling for executive audiences
 
-\### 2) subscriptions
+## Future Improvements
 
-\- subscription\_id
+Possible next steps:
+- Add churn event modeling
+- Add customer health scoring
+- Add cohort retention analysis
+- Add Net Revenue Retention (NRR) and expansion/contraction revenue tracking
+- Publish a lighter `.pbit` template alongside the `.pbix`
 
-\- customer\_id
+## Author
 
-\- plan\_name
-
-\- billing\_cycle
-
-\- monthly\_price
-
-\- seats
-
-\- start\_date
-
-\- renewal\_date
-
-\- status
-
-
-
-\### 3) usage\_monthly
-
-\- customer\_id
-
-\- month
-
-\- active\_users
-
-\- sessions
-
-\- feature\_adoption\_score
-
-\- api\_calls
-
-
-
-\### 4) support\_tickets
-
-\- ticket\_id
-
-\- customer\_id
-
-\- month
-
-\- severity
-
-\- resolution\_hours
-
-\- csat\_score
-
-
-
-\### 5) invoices
-
-\- invoice\_id
-
-\- customer\_id
-
-\- invoice\_month
-
-\- billed\_amount
-
-\- discount\_amount
-
-\- paid\_amount
-
-\- payment\_status
-
-
-
-\### 6) churn\_events
-
-\- customer\_id
-
-\- churn\_date
-
-\- churn\_reason
-
-\- voluntary\_flag
-
-\- save\_offer\_flag
-
+**Mihir Bapat**  
+Full-stack engineer and analytics builder focused on AI, dashboards, and decision-support systems.
