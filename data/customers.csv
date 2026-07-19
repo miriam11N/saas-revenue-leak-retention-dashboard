@@ -1,0 +1,501 @@
+customer_id,company_name,industry,company_size,region,acquisition_channel,signup_date
+1,Johnson LLC,Logistics,SMB,North America,Referral,2026-04-06
+2,Taylor Inc,HealthTech,SMB,North America,Organic,2024-08-01
+3,"Mcclain, Miller and Henderson",Logistics,Enterprise,Asia,Organic,2026-06-03
+4,Robinson PLC,EdTech,Mid-Market,North America,Organic,2023-09-02
+5,Hoffman Ltd,FinTech,SMB,North America,Outbound,2026-02-07
+6,"Gardner, Robinson and Lawrence",EdTech,SMB,Asia,Paid Ads,2026-04-22
+7,Wolfe LLC,Logistics,Enterprise,Asia,Outbound,2023-07-28
+8,Lewis LLC,SaaS,SMB,Europe,Outbound,2024-09-21
+9,James LLC,E-commerce,SMB,North America,Partner,2023-12-23
+10,"Baker, Williams and Stevens",E-commerce,Mid-Market,North America,Paid Ads,2025-01-02
+11,Miller-Carter,E-commerce,SMB,North America,Partner,2024-01-27
+12,"Mcclure, Ward and Lee",FinTech,Mid-Market,Europe,Outbound,2026-03-20
+13,Stanley LLC,E-commerce,SMB,Asia,Partner,2023-11-03
+14,Delacruz Group,EdTech,SMB,Europe,Organic,2023-11-18
+15,Reid-Diaz,EdTech,Mid-Market,Asia,Outbound,2024-09-21
+16,Clark-Adams,E-commerce,Enterprise,North America,Organic,2025-02-12
+17,"Jones, Reid and Ferguson",FinTech,Enterprise,North America,Referral,2026-06-13
+18,Ford LLC,FinTech,SMB,North America,Partner,2024-08-01
+19,"Hawkins, Cohen and Cameron",E-commerce,Mid-Market,Asia,Referral,2026-04-07
+20,Underwood LLC,HealthTech,Mid-Market,Europe,Paid Ads,2023-10-12
+21,Jones-Gentry,Logistics,Mid-Market,Asia,Organic,2025-04-01
+22,"Edwards, Rios and Foster",EdTech,Enterprise,North America,Outbound,2025-12-15
+23,Thomas-Taylor,Logistics,SMB,North America,Partner,2026-04-11
+24,"Baker, Richards and Hurst",SaaS,Mid-Market,Asia,Outbound,2025-12-06
+25,Robinson-Bright,HealthTech,Enterprise,Europe,Organic,2025-03-29
+26,Davis-Williams,HealthTech,SMB,Europe,Partner,2025-09-16
+27,Burton Ltd,E-commerce,SMB,North America,Outbound,2024-01-04
+28,"Brown, James and Ferrell",Logistics,Mid-Market,North America,Partner,2025-05-03
+29,Maddox-Valencia,SaaS,Enterprise,Europe,Paid Ads,2025-10-16
+30,"Le, Maldonado and Herrera",E-commerce,SMB,North America,Outbound,2023-08-04
+31,"Peterson, Carter and Moore",EdTech,Mid-Market,Asia,Outbound,2024-09-04
+32,"Liu, Baker and Mason",SaaS,Enterprise,Europe,Referral,2023-07-23
+33,"Gaines, Harrell and Evans",HealthTech,SMB,Asia,Partner,2024-04-20
+34,"Lynch, Hernandez and Farmer",FinTech,SMB,North America,Paid Ads,2026-04-05
+35,"Sellers, George and Burns",Logistics,SMB,Asia,Partner,2025-11-01
+36,Koch-Decker,EdTech,SMB,Europe,Partner,2024-01-07
+37,Brown PLC,EdTech,Mid-Market,Asia,Referral,2024-11-06
+38,Dennis Inc,EdTech,SMB,Asia,Organic,2023-11-17
+39,Anderson Group,Logistics,Enterprise,Europe,Referral,2025-10-22
+40,Baker PLC,FinTech,Mid-Market,Europe,Paid Ads,2025-11-18
+41,Hickman Ltd,SaaS,SMB,Asia,Referral,2025-05-05
+42,Marquez Group,EdTech,SMB,Asia,Organic,2026-06-23
+43,"Brooks, Lam and Hayes",Logistics,Mid-Market,Asia,Outbound,2026-05-26
+44,Brown Inc,EdTech,SMB,North America,Referral,2024-08-06
+45,"Hall, Robinson and Jones",HealthTech,Enterprise,Asia,Organic,2026-01-16
+46,Perez Inc,EdTech,Mid-Market,Europe,Organic,2026-03-24
+47,Palmer LLC,FinTech,Mid-Market,Europe,Paid Ads,2024-12-12
+48,Lewis-Anderson,FinTech,SMB,Asia,Organic,2026-05-22
+49,"Kennedy, Mueller and Aguirre",FinTech,Enterprise,Europe,Organic,2025-12-21
+50,Davis Group,EdTech,SMB,North America,Partner,2024-05-08
+51,Jenkins-Shields,EdTech,SMB,Europe,Outbound,2025-01-18
+52,"Valdez, Lucas and Brown",EdTech,Mid-Market,North America,Outbound,2023-10-10
+53,Wright and Sons,Logistics,Enterprise,North America,Referral,2024-12-26
+54,Taylor-White,SaaS,Enterprise,Asia,Referral,2025-10-28
+55,Baxter Inc,SaaS,Enterprise,Europe,Organic,2025-07-05
+56,"Garcia, Pearson and Fernandez",HealthTech,SMB,North America,Referral,2025-06-05
+57,House and Sons,FinTech,Enterprise,Asia,Paid Ads,2023-08-09
+58,Tucker-Lewis,EdTech,SMB,North America,Organic,2024-04-01
+59,Martin Inc,Logistics,Enterprise,North America,Paid Ads,2025-03-31
+60,House-Glover,FinTech,SMB,Europe,Organic,2025-03-15
+61,Horton-Cross,EdTech,SMB,Europe,Partner,2024-10-03
+62,"Higgins, Moore and Phillips",HealthTech,Enterprise,North America,Outbound,2025-11-27
+63,"Fitzgerald, Brown and Edwards",EdTech,Mid-Market,North America,Partner,2023-10-16
+64,"Woods, Calhoun and Schmidt",SaaS,SMB,North America,Organic,2023-10-03
+65,"Miller, Lopez and Larson",Logistics,Mid-Market,Europe,Partner,2023-10-14
+66,Powell PLC,SaaS,Mid-Market,Asia,Organic,2026-05-31
+67,"Wheeler, Harvey and Barnes",Logistics,Enterprise,Asia,Organic,2024-08-03
+68,"Mills, Donovan and Harris",FinTech,Mid-Market,Asia,Referral,2026-01-09
+69,Baker and Sons,FinTech,SMB,North America,Paid Ads,2024-11-17
+70,"Evans, Stewart and Walton",EdTech,Mid-Market,North America,Partner,2026-05-26
+71,Ellis PLC,HealthTech,Mid-Market,Europe,Paid Ads,2023-11-07
+72,Medina PLC,FinTech,Mid-Market,Asia,Organic,2023-12-20
+73,Mahoney Inc,FinTech,Enterprise,Asia,Organic,2024-09-01
+74,Mitchell-Kim,FinTech,SMB,North America,Partner,2024-07-31
+75,"Turner, Riggs and Roman",SaaS,Mid-Market,North America,Partner,2025-11-07
+76,Contreras PLC,FinTech,SMB,Europe,Organic,2025-10-16
+77,"Garcia, Humphrey and Baker",SaaS,Mid-Market,Europe,Referral,2024-10-25
+78,"Tran, Nelson and Jacobs",SaaS,Enterprise,Asia,Outbound,2023-12-31
+79,Watts LLC,Logistics,Enterprise,Europe,Paid Ads,2024-12-31
+80,King-Odonnell,HealthTech,Mid-Market,North America,Organic,2025-09-10
+81,Walters LLC,EdTech,Enterprise,Asia,Organic,2023-10-04
+82,Cook and Sons,Logistics,Mid-Market,North America,Organic,2023-09-24
+83,Martin-Ramos,EdTech,Mid-Market,Asia,Outbound,2026-04-02
+84,"Smith, Jones and Ware",HealthTech,SMB,Asia,Organic,2025-05-12
+85,"Johnson, Wood and Tran",HealthTech,SMB,Asia,Organic,2024-03-05
+86,Williams LLC,Logistics,SMB,Europe,Organic,2025-05-15
+87,Clark-Wright,EdTech,SMB,Asia,Outbound,2023-09-17
+88,Deleon-Henson,FinTech,Enterprise,North America,Partner,2023-12-24
+89,"Brady, Frost and Young",Logistics,Enterprise,Asia,Outbound,2025-04-09
+90,Keith Inc,E-commerce,Mid-Market,North America,Referral,2024-03-26
+91,"Middleton, Patton and Jenkins",HealthTech,Mid-Market,Europe,Paid Ads,2024-04-21
+92,"Cochran, Adams and Cobb",Logistics,Enterprise,Europe,Partner,2026-05-23
+93,Brennan-Garrison,E-commerce,SMB,North America,Partner,2024-01-01
+94,Velasquez Group,EdTech,Enterprise,North America,Organic,2024-06-27
+95,Hoover-Savage,EdTech,SMB,Asia,Referral,2025-01-11
+96,Keller Group,HealthTech,Mid-Market,North America,Paid Ads,2024-06-28
+97,Lin-Rasmussen,E-commerce,Mid-Market,North America,Partner,2024-12-08
+98,May-Ross,EdTech,Enterprise,Europe,Outbound,2024-09-23
+99,Crosby-Wilson,Logistics,Enterprise,North America,Outbound,2025-10-27
+100,Carpenter LLC,E-commerce,Enterprise,North America,Paid Ads,2024-08-26
+101,Carlson LLC,E-commerce,SMB,North America,Outbound,2023-09-15
+102,Obrien-Dixon,HealthTech,Mid-Market,Europe,Outbound,2024-11-16
+103,"Lee, Williams and Graham",HealthTech,Enterprise,Europe,Paid Ads,2025-03-07
+104,"Mcdaniel, Bentley and Mclaughlin",Logistics,Enterprise,Europe,Outbound,2025-10-02
+105,Reynolds-Rush,SaaS,Mid-Market,North America,Organic,2024-05-19
+106,"Edwards, Charles and Cortez",Logistics,Mid-Market,Europe,Organic,2024-12-11
+107,"Parker, Ortiz and Powell",FinTech,Mid-Market,North America,Referral,2024-10-26
+108,"Martinez, Fisher and Bentley",HealthTech,Enterprise,Europe,Outbound,2024-10-19
+109,"Orr, Gilbert and Turner",Logistics,Mid-Market,Asia,Organic,2026-06-04
+110,Torres and Sons,FinTech,SMB,Asia,Paid Ads,2025-11-15
+111,"Lawson, Morris and Ramos",EdTech,SMB,Europe,Outbound,2025-05-15
+112,Dixon Ltd,EdTech,SMB,Europe,Paid Ads,2026-06-01
+113,"Miller, Robertson and Schultz",FinTech,Mid-Market,Europe,Organic,2024-04-06
+114,Cardenas and Sons,E-commerce,SMB,Asia,Paid Ads,2024-12-19
+115,Walker-Gonzalez,Logistics,SMB,Europe,Outbound,2026-05-28
+116,Sanchez Group,SaaS,Enterprise,Asia,Paid Ads,2023-08-24
+117,Gibson Ltd,HealthTech,SMB,North America,Partner,2026-02-21
+118,Higgins Group,FinTech,SMB,Asia,Referral,2025-12-28
+119,Sanchez-Douglas,SaaS,Enterprise,Asia,Paid Ads,2025-08-23
+120,Osborne and Sons,E-commerce,SMB,Asia,Organic,2023-07-26
+121,"Holmes, Williams and Wright",SaaS,SMB,Europe,Paid Ads,2024-04-16
+122,Anderson-Marshall,HealthTech,Mid-Market,Europe,Referral,2024-01-22
+123,"Larson, Dodson and Vance",HealthTech,SMB,North America,Paid Ads,2025-10-20
+124,"Mcclain, Simmons and Meadows",SaaS,Mid-Market,Europe,Organic,2026-02-23
+125,Manning Group,E-commerce,Mid-Market,Asia,Outbound,2025-06-09
+126,Walton-Larsen,SaaS,Enterprise,Asia,Referral,2025-06-16
+127,"Washington, Allen and Gonzales",FinTech,SMB,Europe,Paid Ads,2024-09-20
+128,Nelson LLC,EdTech,Mid-Market,North America,Organic,2024-10-03
+129,Taylor and Sons,EdTech,Mid-Market,Europe,Referral,2025-11-03
+130,"Hernandez, Lewis and Perry",SaaS,Enterprise,Asia,Organic,2025-03-04
+131,"Owens, Brown and Wall",SaaS,Enterprise,North America,Referral,2024-12-13
+132,"Shah, Smith and Gilmore",FinTech,Enterprise,Europe,Organic,2025-03-14
+133,Woods-Bender,EdTech,Enterprise,Asia,Paid Ads,2025-12-28
+134,Castaneda-Ashley,E-commerce,Mid-Market,North America,Referral,2024-10-23
+135,"Adkins, Payne and Morrison",EdTech,Mid-Market,Asia,Organic,2025-04-28
+136,Robinson-Graham,Logistics,Mid-Market,Asia,Referral,2024-06-24
+137,Rogers-Shelton,Logistics,Mid-Market,Europe,Partner,2023-09-01
+138,"Martin, Mcdonald and Anderson",Logistics,Mid-Market,Asia,Paid Ads,2025-04-06
+139,"Johnson, Long and Elliott",HealthTech,Mid-Market,Asia,Partner,2026-03-10
+140,Day and Sons,Logistics,Enterprise,North America,Outbound,2023-08-29
+141,Williams Group,EdTech,Mid-Market,Europe,Outbound,2025-07-04
+142,Gibson LLC,FinTech,Mid-Market,Europe,Paid Ads,2024-12-07
+143,Walton-Decker,SaaS,Enterprise,Asia,Referral,2025-02-25
+144,Ruiz Ltd,SaaS,Mid-Market,Europe,Paid Ads,2024-08-12
+145,Cooke LLC,EdTech,Mid-Market,Asia,Paid Ads,2025-11-01
+146,"Jones, Bernard and Williams",Logistics,SMB,Europe,Outbound,2024-06-30
+147,Gonzalez Inc,Logistics,Enterprise,Asia,Referral,2023-09-04
+148,Allen Group,FinTech,SMB,Asia,Referral,2026-03-09
+149,Elliott and Sons,HealthTech,SMB,North America,Organic,2026-05-22
+150,"Scott, Wood and Obrien",FinTech,SMB,Europe,Outbound,2025-07-09
+151,Oconnell Inc,FinTech,Mid-Market,Europe,Outbound,2024-01-11
+152,Hickman PLC,HealthTech,Enterprise,Asia,Partner,2026-01-01
+153,Sanders-Espinoza,SaaS,Mid-Market,North America,Paid Ads,2026-06-04
+154,"Vaughn, Burton and Garcia",Logistics,Enterprise,North America,Organic,2023-11-13
+155,"Burke, Martinez and Riggs",SaaS,SMB,North America,Outbound,2024-10-28
+156,Patel-Stanley,SaaS,SMB,Asia,Paid Ads,2023-09-19
+157,"Holland, Smith and Fisher",FinTech,Mid-Market,North America,Partner,2023-11-02
+158,Hamilton LLC,Logistics,Enterprise,Asia,Outbound,2025-08-17
+159,Zimmerman-Graham,E-commerce,Mid-Market,Asia,Outbound,2026-03-31
+160,"Nelson, Morton and Medina",SaaS,Enterprise,Europe,Paid Ads,2025-10-05
+161,Graham-Simon,Logistics,Mid-Market,Europe,Referral,2025-08-07
+162,Christian-Rivas,HealthTech,Enterprise,Europe,Outbound,2024-09-06
+163,Keith-Sanchez,SaaS,Enterprise,North America,Referral,2023-11-29
+164,"Bishop, Gray and Johnson",SaaS,SMB,Asia,Referral,2025-07-08
+165,Freeman LLC,HealthTech,Mid-Market,Europe,Referral,2024-12-03
+166,Ramirez-Carlson,EdTech,SMB,North America,Paid Ads,2024-08-22
+167,"Smith, Vaughan and Miller",HealthTech,Mid-Market,Asia,Paid Ads,2024-09-19
+168,Peters-Allen,Logistics,SMB,North America,Partner,2025-04-09
+169,"Joseph, West and Smith",SaaS,Mid-Market,Asia,Partner,2025-07-26
+170,Sullivan and Sons,SaaS,SMB,North America,Partner,2024-10-17
+171,"Perkins, Kennedy and Schmidt",SaaS,Enterprise,Asia,Organic,2024-11-04
+172,"Pierce, Bell and Chavez",EdTech,Mid-Market,Europe,Organic,2025-05-08
+173,Hall-Griffith,E-commerce,Mid-Market,Europe,Partner,2024-11-05
+174,Newton Ltd,EdTech,Enterprise,Asia,Outbound,2024-11-19
+175,Robinson Group,EdTech,SMB,Europe,Paid Ads,2024-04-30
+176,"Lawrence, Wolf and Carlson",E-commerce,Mid-Market,Europe,Organic,2024-09-19
+177,Phillips LLC,SaaS,Mid-Market,Asia,Partner,2023-12-21
+178,Smith-Ferguson,Logistics,SMB,Europe,Paid Ads,2024-04-21
+179,Mccann PLC,EdTech,Enterprise,North America,Partner,2024-09-16
+180,"Raymond, Little and Mullins",EdTech,Enterprise,Asia,Organic,2024-10-13
+181,Andrews Group,FinTech,Enterprise,Europe,Paid Ads,2023-12-24
+182,Peterson-Sheppard,SaaS,SMB,North America,Referral,2025-07-30
+183,Wilson-Jones,SaaS,Mid-Market,North America,Partner,2024-08-13
+184,Ray Ltd,E-commerce,Mid-Market,Europe,Referral,2025-08-19
+185,Hernandez PLC,SaaS,Mid-Market,North America,Partner,2023-10-09
+186,Mcknight Inc,FinTech,Enterprise,Asia,Organic,2024-10-31
+187,Obrien-Gibbs,E-commerce,SMB,Asia,Organic,2025-11-30
+188,"James, Kerr and Evans",Logistics,SMB,North America,Paid Ads,2024-07-02
+189,Torres-Oliver,HealthTech,SMB,Asia,Paid Ads,2026-01-17
+190,"Garcia, Farmer and Garrett",HealthTech,SMB,Europe,Organic,2026-02-19
+191,"Miller, Allen and Arnold",EdTech,SMB,Europe,Referral,2024-09-01
+192,Ortiz Ltd,E-commerce,SMB,Asia,Outbound,2024-03-17
+193,Carter-Hall,Logistics,Enterprise,North America,Paid Ads,2026-01-25
+194,"Heath, Jones and Hall",E-commerce,SMB,Asia,Organic,2024-09-29
+195,"Lawrence, Lara and Gonzalez",E-commerce,Enterprise,Asia,Partner,2024-08-31
+196,"Walker, Hernandez and Baker",SaaS,Enterprise,North America,Organic,2024-01-12
+197,Brown LLC,EdTech,Enterprise,Asia,Paid Ads,2024-02-23
+198,"Holloway, Morse and Gonzales",FinTech,Enterprise,Europe,Outbound,2026-01-27
+199,"Torres, Powell and Nelson",FinTech,Enterprise,North America,Referral,2025-07-15
+200,Kim-George,EdTech,Mid-Market,Asia,Referral,2025-11-02
+201,"Morris, Wright and Davis",FinTech,Enterprise,Asia,Referral,2025-05-19
+202,"Matthews, Smith and Hubbard",FinTech,Mid-Market,Europe,Organic,2026-05-30
+203,"Williams, Avila and Ruiz",SaaS,Mid-Market,Asia,Partner,2024-09-08
+204,Moon-White,Logistics,SMB,Europe,Paid Ads,2026-04-25
+205,Walters-Vasquez,Logistics,Enterprise,Asia,Referral,2026-01-12
+206,Bailey-Cook,EdTech,Enterprise,Europe,Partner,2023-12-06
+207,Hodge LLC,SaaS,Enterprise,Asia,Referral,2026-05-24
+208,"Simpson, Bates and Morales",E-commerce,SMB,North America,Referral,2025-04-17
+209,Gibson LLC,SaaS,SMB,Europe,Outbound,2025-11-18
+210,Wilson-Barton,EdTech,Enterprise,Europe,Referral,2024-08-13
+211,Sandoval PLC,FinTech,Mid-Market,Europe,Paid Ads,2025-09-24
+212,Brown-Stone,SaaS,SMB,Europe,Referral,2025-07-04
+213,Garrett-Wolf,E-commerce,Mid-Market,Asia,Referral,2026-03-11
+214,Dunn-Pennington,EdTech,SMB,Asia,Paid Ads,2024-05-29
+215,"Washington, Johnson and Mccoy",FinTech,SMB,Asia,Partner,2025-05-28
+216,"Moore, Pierce and Tran",SaaS,Enterprise,North America,Partner,2024-07-23
+217,Gay Inc,Logistics,Enterprise,Europe,Partner,2023-12-09
+218,Holland and Sons,FinTech,SMB,Europe,Paid Ads,2025-07-03
+219,"Carter, Thornton and Perry",SaaS,Enterprise,North America,Referral,2025-08-30
+220,Sanchez-Arnold,Logistics,Enterprise,Europe,Partner,2025-08-05
+221,Weeks PLC,EdTech,Enterprise,Europe,Partner,2025-03-04
+222,Hill Group,Logistics,Enterprise,Europe,Referral,2024-02-15
+223,"Adams, Smith and Barber",Logistics,Mid-Market,Europe,Referral,2024-12-26
+224,"Duarte, Burns and Hernandez",E-commerce,SMB,North America,Paid Ads,2026-01-14
+225,Reed-Arnold,E-commerce,SMB,Asia,Outbound,2025-10-31
+226,Gibson-Morris,Logistics,SMB,North America,Paid Ads,2025-11-08
+227,"Allen, Reyes and Chase",Logistics,Mid-Market,Europe,Outbound,2024-05-06
+228,Flores Group,EdTech,Enterprise,Europe,Organic,2025-04-16
+229,Hughes-Alvarado,HealthTech,Mid-Market,North America,Referral,2026-07-17
+230,Simpson Inc,HealthTech,Mid-Market,North America,Outbound,2026-04-25
+231,"Sanford, Rivera and Garcia",HealthTech,Mid-Market,North America,Organic,2024-01-30
+232,Fox Group,EdTech,Mid-Market,Asia,Paid Ads,2025-05-31
+233,"Thomas, Pitts and Booker",Logistics,Mid-Market,North America,Organic,2023-08-10
+234,Harrington-Baker,EdTech,Mid-Market,Europe,Partner,2023-11-11
+235,"Sanders, Miller and Murphy",SaaS,Mid-Market,North America,Organic,2026-03-12
+236,"James, Stewart and Higgins",E-commerce,Mid-Market,North America,Organic,2026-05-30
+237,"Johnson, Jones and Welch",SaaS,Mid-Market,North America,Outbound,2025-08-14
+238,Francis Group,Logistics,Enterprise,North America,Paid Ads,2024-10-06
+239,"Padilla, Garcia and Jackson",HealthTech,Enterprise,Europe,Organic,2023-12-17
+240,Williams Inc,HealthTech,SMB,Asia,Partner,2024-10-25
+241,Brooks-Thomas,EdTech,Enterprise,Asia,Paid Ads,2024-10-15
+242,Knight-Sparks,EdTech,Mid-Market,Europe,Partner,2025-10-20
+243,Miller Group,E-commerce,Enterprise,Europe,Referral,2024-04-07
+244,"Allen, Durham and Thomas",EdTech,Enterprise,North America,Outbound,2026-03-06
+245,"King, Scott and Smith",Logistics,SMB,North America,Paid Ads,2025-07-03
+246,Byrd-Moore,E-commerce,Enterprise,North America,Paid Ads,2025-07-09
+247,Huerta-Evans,HealthTech,SMB,Asia,Organic,2025-06-03
+248,"Wright, Bruce and Gonzalez",HealthTech,SMB,Europe,Partner,2025-05-07
+249,Rodriguez-James,Logistics,Enterprise,Europe,Referral,2025-03-06
+250,"Phillips, Lyons and Johnson",FinTech,SMB,Europe,Referral,2025-01-25
+251,Hill-Knight,Logistics,Mid-Market,North America,Paid Ads,2026-05-05
+252,"Beltran, Lozano and Mcgee",E-commerce,Enterprise,Asia,Paid Ads,2026-06-17
+253,Lawson LLC,SaaS,SMB,Asia,Paid Ads,2024-10-04
+254,"Lee, King and Campos",Logistics,SMB,Europe,Paid Ads,2024-06-22
+255,"Massey, Fuller and Berger",FinTech,SMB,North America,Referral,2026-05-07
+256,Parker Group,EdTech,Enterprise,Asia,Referral,2026-04-17
+257,"Diaz, Anderson and Browning",SaaS,SMB,Europe,Referral,2023-09-07
+258,"Perry, Gonzalez and Buchanan",Logistics,Mid-Market,Europe,Outbound,2024-12-06
+259,"Shaw, Nelson and Martin",EdTech,Mid-Market,Europe,Organic,2025-02-05
+260,Francis-Morgan,EdTech,SMB,Europe,Referral,2025-08-04
+261,Mccarty-Taylor,EdTech,Mid-Market,North America,Organic,2024-01-12
+262,"Ramsey, Whitney and Coffey",HealthTech,Enterprise,Asia,Outbound,2024-07-02
+263,Davis-Foster,FinTech,Enterprise,Europe,Outbound,2025-11-29
+264,"Martinez, Richardson and Curry",FinTech,SMB,Europe,Outbound,2024-08-31
+265,"James, Little and Watson",Logistics,Mid-Market,Europe,Paid Ads,2024-08-28
+266,Ruiz PLC,EdTech,Mid-Market,Asia,Partner,2026-05-31
+267,Herman-Walker,FinTech,Mid-Market,Europe,Partner,2025-12-06
+268,"Colon, Blankenship and Turner",E-commerce,Mid-Market,Asia,Organic,2023-10-24
+269,Taylor Inc,HealthTech,Mid-Market,Europe,Partner,2025-04-12
+270,Wilson-Young,E-commerce,Enterprise,Europe,Outbound,2024-11-01
+271,Price LLC,FinTech,Mid-Market,North America,Referral,2025-10-30
+272,"Horton, Fernandez and Matthews",E-commerce,Mid-Market,North America,Partner,2026-05-24
+273,Pena-Bass,EdTech,SMB,Asia,Outbound,2024-03-14
+274,Crosby-Ramirez,SaaS,Mid-Market,North America,Paid Ads,2026-02-28
+275,Robinson-Wallace,EdTech,Mid-Market,Asia,Partner,2026-06-24
+276,Garcia-Jennings,Logistics,Mid-Market,North America,Paid Ads,2024-07-18
+277,"Howard, Sanders and Lopez",E-commerce,Enterprise,North America,Referral,2025-11-09
+278,Davis-Lewis,SaaS,Enterprise,Europe,Organic,2024-01-23
+279,"Maddox, Williams and Cook",FinTech,Enterprise,Asia,Paid Ads,2026-04-06
+280,"Harris, Gallegos and Spencer",Logistics,SMB,Europe,Outbound,2024-01-29
+281,Li and Sons,FinTech,Enterprise,Europe,Organic,2026-01-13
+282,Kramer PLC,HealthTech,SMB,Europe,Organic,2024-12-09
+283,Garrison-Thomas,Logistics,SMB,Europe,Referral,2023-07-22
+284,"King, Thompson and Guerrero",EdTech,Enterprise,Europe,Partner,2024-02-04
+285,Smith and Sons,SaaS,Mid-Market,North America,Partner,2023-08-27
+286,Smith-Baker,EdTech,SMB,Europe,Paid Ads,2026-01-17
+287,"Fisher, Wilson and Brown",EdTech,Enterprise,Asia,Paid Ads,2024-01-30
+288,Palmer-Rodriguez,FinTech,Mid-Market,Europe,Referral,2025-06-13
+289,Dougherty Inc,EdTech,Mid-Market,North America,Referral,2025-09-07
+290,"Turner, Schneider and Johnson",Logistics,Mid-Market,Asia,Outbound,2026-05-06
+291,Simmons-Rodriguez,Logistics,Mid-Market,North America,Partner,2025-07-31
+292,Lam LLC,EdTech,Mid-Market,Europe,Referral,2025-06-06
+293,Jones LLC,EdTech,Enterprise,Europe,Partner,2026-02-16
+294,"Richards, Joseph and James",E-commerce,SMB,Asia,Paid Ads,2026-03-13
+295,"Phillips, Wagner and Jordan",EdTech,Mid-Market,North America,Partner,2026-01-31
+296,Farrell Ltd,FinTech,Mid-Market,Asia,Partner,2026-07-12
+297,"Glenn, Jordan and Beasley",Logistics,Mid-Market,Europe,Paid Ads,2025-11-20
+298,Wilcox-Ross,SaaS,SMB,North America,Outbound,2025-04-20
+299,Simmons-Ortega,EdTech,Mid-Market,North America,Partner,2023-12-12
+300,Mcdaniel Group,FinTech,Enterprise,Europe,Organic,2025-02-18
+301,Decker Inc,Logistics,SMB,Europe,Paid Ads,2023-10-30
+302,Garner LLC,FinTech,Mid-Market,Europe,Referral,2025-05-18
+303,"Brown, Frye and Hoffman",EdTech,Enterprise,Europe,Organic,2024-02-05
+304,Jenkins Ltd,E-commerce,Enterprise,Asia,Partner,2026-05-23
+305,"Williams, Roberts and Edwards",E-commerce,Enterprise,Asia,Partner,2025-05-05
+306,"Romero, Moore and Olson",EdTech,SMB,Asia,Organic,2023-12-25
+307,Bruce-Richardson,HealthTech,Enterprise,Asia,Referral,2024-01-02
+308,"Perez, Patterson and Hoffman",HealthTech,Enterprise,North America,Partner,2024-09-22
+309,"Leonard, Hawkins and Lynch",FinTech,Enterprise,Asia,Organic,2026-03-09
+310,"Adams, White and Park",SaaS,SMB,Asia,Referral,2026-05-04
+311,Bell-White,FinTech,SMB,Europe,Organic,2024-11-08
+312,"Sandoval, Jones and Figueroa",E-commerce,Mid-Market,Europe,Partner,2024-02-25
+313,Reese and Sons,HealthTech,SMB,Asia,Partner,2023-09-03
+314,Chavez-Moore,EdTech,Enterprise,North America,Paid Ads,2025-02-21
+315,"Nguyen, Pugh and Carlson",HealthTech,SMB,Asia,Partner,2024-11-13
+316,Moore PLC,EdTech,Enterprise,North America,Partner,2023-10-07
+317,"Miller, Ramos and Coleman",EdTech,SMB,North America,Partner,2023-10-03
+318,Perry-Lewis,Logistics,Mid-Market,Europe,Referral,2026-02-15
+319,Reed Inc,Logistics,SMB,Europe,Referral,2025-09-20
+320,"Gregory, Tucker and Estrada",Logistics,Enterprise,North America,Organic,2024-09-30
+321,Foster PLC,SaaS,Mid-Market,Asia,Referral,2023-09-26
+322,Harris and Sons,Logistics,Mid-Market,Asia,Referral,2023-10-11
+323,Roberts-Wilson,SaaS,Mid-Market,North America,Partner,2024-02-16
+324,"Jordan, Anderson and Patel",SaaS,SMB,North America,Partner,2025-08-28
+325,"Hansen, Barnett and Gomez",EdTech,Mid-Market,Asia,Referral,2024-07-09
+326,"Williams, Smith and Morse",Logistics,Mid-Market,North America,Partner,2025-03-25
+327,"Patterson, Sullivan and Bowman",E-commerce,SMB,Asia,Organic,2024-11-15
+328,Sullivan LLC,EdTech,Enterprise,Europe,Referral,2024-10-09
+329,"Stevens, Norris and Cox",HealthTech,Enterprise,Europe,Paid Ads,2024-04-09
+330,Sanchez PLC,Logistics,SMB,Asia,Referral,2025-05-26
+331,"Miller, Harrell and Reese",Logistics,Enterprise,Asia,Paid Ads,2025-03-31
+332,Maxwell-Jones,Logistics,SMB,Asia,Organic,2024-06-26
+333,Schmidt and Sons,E-commerce,Mid-Market,North America,Outbound,2026-03-27
+334,Luna-Fuentes,E-commerce,Enterprise,North America,Organic,2025-01-10
+335,Garcia LLC,E-commerce,Mid-Market,Asia,Partner,2024-03-03
+336,Morrison Ltd,HealthTech,SMB,North America,Outbound,2024-05-19
+337,Bean Ltd,E-commerce,Enterprise,Asia,Referral,2023-11-12
+338,Webster-Wolf,HealthTech,Mid-Market,Europe,Referral,2025-08-23
+339,"Glass, Cunningham and Reid",Logistics,Mid-Market,North America,Partner,2025-06-14
+340,Lin-Burton,FinTech,SMB,North America,Partner,2026-03-14
+341,Jones-Ramos,EdTech,Mid-Market,North America,Partner,2024-03-08
+342,Vargas-Bell,FinTech,Mid-Market,Asia,Organic,2024-10-30
+343,Murray-Johnson,SaaS,Mid-Market,Asia,Referral,2023-11-10
+344,Jones-Lin,EdTech,Mid-Market,Asia,Referral,2025-02-09
+345,"Wheeler, Cruz and Carpenter",FinTech,Enterprise,North America,Partner,2023-12-05
+346,Stout-Armstrong,FinTech,Enterprise,Asia,Referral,2023-09-19
+347,Jacobs-Mason,EdTech,SMB,Asia,Organic,2024-05-05
+348,Garcia-Nolan,Logistics,Mid-Market,Asia,Referral,2023-10-22
+349,"Miller, Lucas and Williams",Logistics,Mid-Market,North America,Paid Ads,2025-01-01
+350,Warren-Bishop,FinTech,SMB,Europe,Partner,2025-05-28
+351,Hardin-Hughes,FinTech,SMB,North America,Outbound,2025-02-02
+352,"Harper, Mccormick and Holland",HealthTech,Mid-Market,Europe,Referral,2024-12-24
+353,Davis-Gregory,Logistics,Enterprise,Asia,Outbound,2023-10-28
+354,Cummings-Douglas,SaaS,Enterprise,Asia,Paid Ads,2024-10-01
+355,Cook PLC,SaaS,Enterprise,North America,Partner,2026-02-08
+356,Rangel LLC,EdTech,Mid-Market,Europe,Organic,2026-05-13
+357,"Bates, Anderson and Fletcher",Logistics,Mid-Market,North America,Partner,2026-05-02
+358,Hansen-Schneider,SaaS,SMB,Europe,Organic,2023-11-26
+359,Santiago Ltd,Logistics,Mid-Market,Asia,Referral,2024-12-09
+360,"Davis, Santiago and Romero",FinTech,Mid-Market,Europe,Paid Ads,2026-06-16
+361,Parker-Bean,FinTech,Mid-Market,North America,Paid Ads,2023-08-15
+362,Lee-Cooke,Logistics,Enterprise,Asia,Organic,2024-12-29
+363,Phillips Inc,FinTech,Mid-Market,North America,Paid Ads,2024-03-14
+364,"Conley, Stephenson and Johnson",EdTech,SMB,North America,Outbound,2025-09-13
+365,"Anderson, Bennett and Martin",HealthTech,Enterprise,North America,Paid Ads,2024-12-22
+366,"Lamb, Martin and Kim",E-commerce,SMB,Asia,Organic,2026-06-28
+367,Rhodes-Young,E-commerce,SMB,North America,Outbound,2025-04-16
+368,"Mitchell, Goodman and Cole",E-commerce,SMB,North America,Organic,2025-06-07
+369,Collins Group,HealthTech,SMB,Europe,Paid Ads,2025-10-24
+370,Gregory-Hudson,EdTech,Mid-Market,North America,Paid Ads,2024-05-14
+371,Hammond-Strickland,E-commerce,SMB,North America,Partner,2025-06-01
+372,"Barnes, Martin and Gonzalez",EdTech,SMB,Asia,Organic,2025-09-06
+373,Salas Inc,SaaS,Mid-Market,Europe,Outbound,2026-02-11
+374,Sawyer-Spencer,EdTech,SMB,Europe,Outbound,2026-04-09
+375,"Singleton, Rosales and Mitchell",HealthTech,Enterprise,North America,Outbound,2023-12-24
+376,Cole-Palmer,E-commerce,Mid-Market,Asia,Organic,2024-03-23
+377,Potts and Sons,FinTech,Mid-Market,Europe,Partner,2025-05-27
+378,Arias-Perry,Logistics,SMB,Europe,Partner,2025-06-17
+379,"Brooks, Hughes and Miller",FinTech,SMB,Europe,Outbound,2025-03-24
+380,Flores Inc,HealthTech,SMB,North America,Referral,2024-06-30
+381,Moody-Taylor,EdTech,Enterprise,Asia,Outbound,2026-04-22
+382,Horton-Taylor,Logistics,Mid-Market,Europe,Outbound,2024-10-05
+383,Gilbert-Bullock,EdTech,Mid-Market,Europe,Outbound,2025-07-15
+384,Lewis-Hernandez,EdTech,Mid-Market,North America,Organic,2023-08-16
+385,"Henderson, Parsons and Young",Logistics,Enterprise,Asia,Paid Ads,2026-02-17
+386,Allen Ltd,SaaS,Mid-Market,North America,Partner,2024-01-23
+387,Brown-Copeland,E-commerce,Mid-Market,Europe,Partner,2026-03-11
+388,"Herrera, Chen and Andrews",Logistics,SMB,Europe,Partner,2025-09-01
+389,Patterson-Mendez,E-commerce,Enterprise,Europe,Referral,2024-02-26
+390,"Butler, Beck and Miller",HealthTech,Enterprise,Europe,Organic,2024-07-25
+391,Ashley PLC,FinTech,SMB,North America,Partner,2025-01-28
+392,"Spencer, Myers and Harrison",FinTech,Enterprise,Asia,Referral,2025-09-13
+393,Zavala-King,HealthTech,Enterprise,North America,Outbound,2026-03-31
+394,Kramer-Cooper,EdTech,Enterprise,Europe,Organic,2023-08-12
+395,"Garcia, Perkins and Sherman",SaaS,Mid-Market,Asia,Partner,2026-05-03
+396,Bell LLC,Logistics,SMB,Europe,Outbound,2024-02-10
+397,Greer Ltd,E-commerce,Mid-Market,North America,Outbound,2026-04-11
+398,"Mendoza, White and Taylor",EdTech,SMB,North America,Partner,2025-07-08
+399,Carter Inc,HealthTech,SMB,Europe,Outbound,2025-06-27
+400,Stewart LLC,E-commerce,SMB,Europe,Outbound,2024-05-22
+401,Hays-Daniels,HealthTech,Mid-Market,Asia,Outbound,2025-09-25
+402,Mullins and Sons,EdTech,Enterprise,Asia,Outbound,2024-08-14
+403,Atkins-Williams,FinTech,Enterprise,Asia,Referral,2024-10-04
+404,Nelson-Lloyd,FinTech,SMB,Europe,Referral,2026-05-01
+405,Paul-Kline,E-commerce,Mid-Market,North America,Paid Ads,2025-05-26
+406,Beltran-Crawford,HealthTech,Enterprise,Asia,Partner,2025-03-09
+407,Glass-Stone,FinTech,SMB,Asia,Organic,2025-08-28
+408,"Coleman, Jordan and Carney",FinTech,Enterprise,Asia,Paid Ads,2023-11-23
+409,"Carter, Garcia and Murphy",SaaS,Mid-Market,Europe,Referral,2024-04-23
+410,Griffin-Robbins,HealthTech,Mid-Market,Europe,Referral,2024-10-19
+411,"Wallace, West and Acosta",EdTech,Enterprise,North America,Organic,2024-04-01
+412,"Bolton, Hill and Whitney",HealthTech,SMB,Asia,Organic,2025-01-15
+413,Lambert Group,Logistics,SMB,Europe,Partner,2023-10-15
+414,"Owen, Shelton and Cisneros",Logistics,Mid-Market,Europe,Outbound,2025-02-01
+415,"Gregory, Kim and Martinez",SaaS,Mid-Market,Europe,Paid Ads,2024-02-24
+416,"Diaz, Reyes and Bradley",EdTech,SMB,Europe,Partner,2024-07-18
+417,Shelton LLC,FinTech,Mid-Market,Asia,Outbound,2026-02-11
+418,Hines-Berry,SaaS,Enterprise,Asia,Referral,2025-02-14
+419,Sanders-Banks,FinTech,SMB,Europe,Outbound,2025-10-17
+420,Johnson and Sons,FinTech,SMB,North America,Referral,2024-08-08
+421,"Hughes, Hoffman and Green",HealthTech,SMB,Europe,Referral,2025-08-31
+422,"Griffin, Davies and Mitchell",E-commerce,SMB,North America,Partner,2024-08-25
+423,Martinez Inc,Logistics,Mid-Market,North America,Paid Ads,2025-08-19
+424,Roach Group,SaaS,Enterprise,Asia,Paid Ads,2025-06-19
+425,"Ponce, Downs and Contreras",EdTech,Enterprise,Asia,Referral,2023-12-01
+426,"Daniels, Vance and York",FinTech,Mid-Market,Asia,Organic,2023-10-26
+427,"Thompson, Ward and Walker",SaaS,SMB,Europe,Organic,2026-07-09
+428,Young Group,E-commerce,Enterprise,Europe,Outbound,2024-05-25
+429,Spencer-Wood,SaaS,Enterprise,Asia,Partner,2023-08-27
+430,Salazar Inc,E-commerce,SMB,Europe,Organic,2025-11-20
+431,Sanders-Love,E-commerce,SMB,Asia,Partner,2023-10-28
+432,"Jenkins, Ortiz and Andrews",Logistics,Mid-Market,North America,Partner,2025-07-30
+433,Day-Cole,FinTech,SMB,Europe,Outbound,2024-01-28
+434,"Cooper, Humphrey and Deleon",SaaS,Enterprise,North America,Partner,2026-06-08
+435,"White, Burch and Reynolds",E-commerce,Enterprise,Europe,Paid Ads,2026-04-06
+436,Holmes LLC,E-commerce,SMB,North America,Outbound,2023-10-12
+437,Morris Ltd,Logistics,SMB,Asia,Outbound,2024-03-29
+438,Meza-Stone,HealthTech,Mid-Market,Europe,Paid Ads,2024-07-02
+439,King Ltd,HealthTech,SMB,North America,Referral,2024-10-01
+440,Martinez-Turner,HealthTech,SMB,Asia,Paid Ads,2025-11-19
+441,Shaw and Sons,Logistics,SMB,North America,Partner,2025-10-23
+442,"Moore, Hopkins and Le",SaaS,Enterprise,Asia,Partner,2026-01-22
+443,Kirby-Elliott,Logistics,Enterprise,Asia,Outbound,2026-02-12
+444,Williams Ltd,E-commerce,Enterprise,Europe,Paid Ads,2023-08-31
+445,Curtis-Wang,SaaS,SMB,Europe,Partner,2025-12-29
+446,"Fowler, Jimenez and Burton",Logistics,Mid-Market,Europe,Outbound,2025-04-25
+447,"Frye, Webb and Ballard",FinTech,Mid-Market,Asia,Organic,2024-10-09
+448,Evans-Jones,E-commerce,Mid-Market,Europe,Organic,2026-06-16
+449,Gonzales Group,FinTech,Mid-Market,Europe,Organic,2023-10-19
+450,Peterson and Sons,Logistics,SMB,Asia,Outbound,2025-07-08
+451,"Flores, Travis and Reed",EdTech,Mid-Market,Europe,Outbound,2024-11-14
+452,Hodges PLC,EdTech,Enterprise,North America,Partner,2025-03-28
+453,Flores Group,EdTech,Enterprise,North America,Referral,2025-12-06
+454,Cole-Thomas,EdTech,Mid-Market,Asia,Paid Ads,2024-01-24
+455,Dougherty-Lin,FinTech,Mid-Market,North America,Referral,2023-10-04
+456,Estes and Sons,Logistics,SMB,Asia,Paid Ads,2025-04-27
+457,"Griffith, Lee and Moore",FinTech,SMB,Asia,Partner,2024-12-07
+458,Jimenez-Parker,SaaS,Enterprise,Asia,Outbound,2025-09-24
+459,Landry PLC,HealthTech,Mid-Market,Europe,Referral,2023-08-23
+460,Lewis LLC,SaaS,Mid-Market,Europe,Outbound,2025-06-27
+461,Campbell PLC,FinTech,Enterprise,Asia,Referral,2023-10-01
+462,"Ruiz, Herrera and Boone",FinTech,Mid-Market,North America,Outbound,2026-04-29
+463,Khan Ltd,Logistics,Mid-Market,Europe,Referral,2025-05-17
+464,Diaz-Morales,Logistics,Enterprise,Asia,Paid Ads,2025-02-05
+465,"Lee, Tran and Jones",E-commerce,SMB,Asia,Paid Ads,2025-12-19
+466,Duran-Ramirez,E-commerce,Mid-Market,Asia,Partner,2025-09-08
+467,"Carr, Anderson and Davis",HealthTech,Enterprise,Asia,Organic,2026-03-12
+468,Grant-Diaz,E-commerce,Enterprise,Europe,Referral,2025-02-16
+469,Morrison Group,HealthTech,Enterprise,Asia,Outbound,2024-02-27
+470,Williams and Sons,FinTech,Enterprise,Asia,Partner,2025-09-01
+471,Stone-Hernandez,EdTech,Mid-Market,North America,Referral,2024-12-16
+472,Murphy PLC,E-commerce,SMB,North America,Referral,2025-09-25
+473,Long PLC,SaaS,SMB,North America,Paid Ads,2024-11-23
+474,"Rogers, Clayton and Patel",HealthTech,SMB,Europe,Organic,2024-10-24
+475,Wells-Smith,EdTech,Enterprise,Asia,Outbound,2025-12-08
+476,"Rodriguez, Butler and Parker",FinTech,Enterprise,Europe,Outbound,2024-12-13
+477,"Johnson, Wells and Coffey",HealthTech,Enterprise,Europe,Paid Ads,2026-06-20
+478,"Perez, Williams and Castillo",HealthTech,SMB,Asia,Outbound,2026-01-01
+479,"Griffith, Hampton and James",HealthTech,Enterprise,Europe,Organic,2025-10-09
+480,Johnson Ltd,SaaS,Mid-Market,Asia,Paid Ads,2026-06-09
+481,Smith LLC,SaaS,Enterprise,Europe,Partner,2024-01-04
+482,Gutierrez and Sons,HealthTech,Enterprise,North America,Referral,2025-04-28
+483,"Hampton, Knapp and Salas",SaaS,SMB,Europe,Outbound,2025-04-15
+484,"Taylor, Clark and Nguyen",SaaS,Mid-Market,Europe,Partner,2023-10-22
+485,Fox-Edwards,EdTech,Enterprise,Europe,Paid Ads,2026-05-11
+486,Barr-Peterson,HealthTech,Enterprise,North America,Referral,2024-04-12
+487,"Ingram, Le and Schneider",FinTech,Enterprise,Europe,Referral,2025-01-18
+488,Bishop-Lee,EdTech,SMB,Asia,Outbound,2026-06-29
+489,Grant-Walker,FinTech,Mid-Market,North America,Paid Ads,2024-08-03
+490,Bush-Vaughn,E-commerce,Mid-Market,Asia,Paid Ads,2024-10-22
+491,Castillo-Castro,SaaS,SMB,North America,Partner,2025-08-15
+492,Martinez-Rhodes,E-commerce,SMB,Europe,Organic,2024-09-14
+493,Cardenas-Blevins,SaaS,Enterprise,Europe,Paid Ads,2025-02-26
+494,Williams-Moses,SaaS,SMB,Europe,Paid Ads,2024-03-01
+495,Bradshaw-Douglas,FinTech,Mid-Market,North America,Referral,2023-11-17
+496,Harris PLC,HealthTech,SMB,North America,Referral,2025-07-31
+497,"Horton, Taylor and Gilbert",SaaS,Enterprise,North America,Partner,2024-09-11
+498,Sanchez Ltd,SaaS,Enterprise,North America,Organic,2026-01-14
+499,Little Inc,FinTech,Mid-Market,North America,Paid Ads,2025-10-19
+500,Rivera-Kennedy,EdTech,Enterprise,Asia,Outbound,2023-12-20
