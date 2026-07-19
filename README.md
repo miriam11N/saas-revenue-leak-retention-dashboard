@@ -6,9 +6,7 @@ A portfolio data analytics project that analyzes synthetic B2B SaaS customer, su
 
 This project simulates a fictional SaaS business and answers a simple executive question:
 
-**Where is recurring revenue being lost, which customer segments are most at risk, and what should the business act on first?**
 
-The project combines synthetic data generation in Python with a Power BI dashboard designed for business stakeholders such as revenue operations, customer success, and leadership teams.
 
 ## Business Problem
 
@@ -101,25 +99,10 @@ saas-revenue-leak-retention-dashboard/
 3. Open the Power BI report in the `powerbi/` folder.
 4. Explore the dashboard using slicers such as region, industry, company size, plan, and invoice month.
 
-## Dashboard Preview
 
-Add one or two screenshots of the final Power BI dashboard in the `images/` folder, then embed them here.
 
-Example:
 
-```md
 
-```
-
-## Why This Project Matters
-
-This project demonstrates practical analytics skills across:
-- Synthetic data generation
-- Data modeling
-- KPI design
-- Business-focused dashboarding
-- Power BI reporting
-- Analytical storytelling for executive audiences
 
 ## Future Improvements
 
@@ -130,7 +113,4 @@ Possible next steps:
 - Add Net Revenue Retention (NRR) and expansion/contraction revenue tracking
 - Publish a lighter `.pbit` template alongside the `.pbix`
 
-## Author
 
-**Mihir Bapat**  
-Full-stack engineer and analytics builder focused on AI, dashboards, and decision-support systems.
